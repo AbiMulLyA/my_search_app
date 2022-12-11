@@ -1,16 +1,13 @@
-# my_search_app
+# My Search App
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/42445812/206901627-e1a55789-711f-46ca-a70f-4bbb7fb7a76f.png)
 
-## Getting Started
+## Structure
+- Use Clean Architecture, Dependency Injection, Retrofit, and Auto Route
 
-This project is a starting point for a Flutter application.
+## Future Must Fix
+- City Filter still not filtering user list when fetching data
+- After adding user, the bottom sheet not pop directly and the texteditingcontrollers inside stil cache the text
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Missing Fiture
+- Sort user by name
