@@ -1,0 +1,16 @@
+{
+    "global_dont_have_account": "don't have account yet?",
+    "global_email": "Email",
+    "global_password": "Password",
+    "global_password_confirmation": "Password Confirmation",
+    "global_resend_code": "Resend Code",
+    "global_signin": "signin",
+    "global_signup": "signup",
+    "global_username": "Username",
+    "global_next": "Next",
+    "global_logout": "Logout",
+    "global_logout_confirm": "Are you sure want to logout ?",
+    "global_ok": "Ok",
+    "global_cancel": "Cancel",
+    "global_error_required": "The field is required"
+}
